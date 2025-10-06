@@ -1,5 +1,3 @@
-# pet-matching-demo
-走失寵物資訊平台
 import streamlit as st
 import pandas as pd
 from PIL import Image
