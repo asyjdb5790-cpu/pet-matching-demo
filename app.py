@@ -5,7 +5,7 @@ import os
 
 st.set_page_config(page_title="走失寵物資訊平台", page_icon="🐾", layout="centered")
 
-st.title("🐶 走失寵物資訊平台 Demo")
+st.title("🐶 走失寵物資訊平台 ")
 
 # --- 選單 ---
 st.sidebar.header("📋 搜尋條件")
